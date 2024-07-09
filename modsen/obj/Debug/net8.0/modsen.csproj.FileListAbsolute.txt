@@ -12,3 +12,4 @@ C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\refint\modsen.dll
 C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.pdb
 C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.genruntimeconfig.cache
 C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\ref\modsen.dll
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.sourcelink.json
