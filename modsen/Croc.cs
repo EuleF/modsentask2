@@ -1,32 +1,39 @@
 namespace modsen;
 
-internal class Crocodile
+class Crocodile
 {
+    private string Name;
+    private uint Weight, Length, Age;
+    private char Gender;
+    
     public string _name
     {
-        get { return _name; }
-        private set { _name = value; }
+        get { return Name; }
+        private set { Name = value; }
     }
 
     public uint _weight
     {
-        get { return _weight; }
-        private set { _weight = value; }
+        get { return Weight; }
+        private set { Weight = value; }
     }
+    
     public uint _length 
     {
-        get { return _length; }
-        private set { _length = value; }
+        get { return Length; }
+        private set { Length = value; }
     }
+    
     public uint _age
     {
-        get { return _age; }
-        private set { _age = value; }
+        get { return Age; }
+        private set { Age = value; }
     }
+    
     public char _gender
-    {
-        get { return _gender; }
-        private set { _gender = value; }
+    {   
+        get { return Gender; }
+        private set { Gender = value; }
     }
 
     public Crocodile(string name, uint weight, uint length, uint age, char gender)
